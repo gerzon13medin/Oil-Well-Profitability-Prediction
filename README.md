@@ -68,7 +68,7 @@ Características:
 - **RMSE (validación)**: [ejemplo: 37.5]  
 - **Ganancia promedio (mejor región)**: [ejemplo: 125M USD]  
 - **Intervalo de confianza (95%)**: [ejemplo: 85M – 160M USD]  
-- **Riesgo de pérdidas**: [ejemplo: 1.8%] ✅  
+- **Riesgo de pérdidas**: [ejemplo: 1.8%] 
 
 ---
 
@@ -81,7 +81,7 @@ Características:
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - Python (pandas, numpy, scikit-learn)  
 - Matplotlib / Seaborn (visualización)  
 - Bootstrapping (riesgo y ganancias)  
